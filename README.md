@@ -8,7 +8,7 @@ This project includes several key documents and files, all of which are essentia
 
 - **Uploaded Files:** [Raw datasets used for analysis](https://github.com/mp-balaji/Customer-Churn-Prediction/blob/4b8be84162cb0b5890bb5888c9f9744a8d30c28b/Customer%20Churn%20Data.xlsx)
 - **Python Notebook:** [Jupyter notebook containing all scripts for data cleaning, EDA, and model building](https://github.com/mp-balaji/Customer-Churn-Prediction/blob/4b8be84162cb0b5890bb5888c9f9744a8d30c28b/Customer_Churn_Python_Code.ipynb)
-- **Business Presentation Report:** [Detailed report outlining the business understanding, model findings, and strategic recommendations](https://github.com/mp-balaji/Customer-Churn-Prediction/blob/4b8be84162cb0b5890bb5888c9f9744a8d30c28b/Business%20Report%20Presentation.pptx)
+- **Business Presentation Report:** [Detailed report outlining the business understanding, model findings, and strategic recommendations](https://github.com/mp-balaji/Customer-Churn-Prediction/blob/8e12334031770984698176bfdd9e77607491f024/Business%20Report%20Presentation.pdf)
 - **Detailed Project Report:** [Extensive report covering all aspects of the project including methodology, code, and insights](https://github.com/mp-balaji/Customer-Churn-Prediction/blob/4b8be84162cb0b5890bb5888c9f9744a8d30c28b/Customer%20Churn%20Project%20Report.pdf)
 
 ## Table of Contents
