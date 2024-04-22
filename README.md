@@ -3,6 +3,14 @@
 ## Overview
 This project focuses on predicting customer churn for a Direct-To-Home (DTH) service provider, faced with high competition and customer retention costs. By leveraging machine learning models, the project aims to identify potential churners and suggest targeted offers to retain them effectively.
 
+## Project Resources
+This project includes several key documents and files, all of which are essential for a comprehensive understanding of the project and its outcomes:
+
+- **Uploaded Files:** [Raw datasets used for analysis](https://github.com/mp-balaji/Customer-Churn-Prediction/blob/4b8be84162cb0b5890bb5888c9f9744a8d30c28b/Customer%20Churn%20Data.xlsx)
+- **Python Notebook:** [Jupyter notebook containing all scripts for data cleaning, EDA, and model building](https://github.com/mp-balaji/Customer-Churn-Prediction/blob/4b8be84162cb0b5890bb5888c9f9744a8d30c28b/Customer_Churn_Python_Code.ipynb)
+- **Business Presentation Report:** [Detailed report outlining the business understanding, model findings, and strategic recommendations](https://github.com/mp-balaji/Customer-Churn-Prediction/blob/4b8be84162cb0b5890bb5888c9f9744a8d30c28b/Business%20Report%20Presentation.pptx)
+- **Detailed Project Report:** [Extensive report covering all aspects of the project including methodology, code, and insights](https://github.com/mp-balaji/Customer-Churn-Prediction/blob/4b8be84162cb0b5890bb5888c9f9744a8d30c28b/Customer%20Churn%20Project%20Report.pdf)
+
 ## Table of Contents
 - [Project Background](#project-background)
 - [Data Overview](#data-overview)
